@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bmsslz@hotmail.com
+	name = Bruno Souza
